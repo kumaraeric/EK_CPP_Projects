@@ -1,0 +1,17 @@
+training data:
+label = , content = 
+label = , content = 
+label = , content = 
+label = , content = 
+label = , content = 
+label = , content = 
+label = , content = 
+label = , content = 
+hello
+trained on 0 examples
+vocabulary size = 0
+
+classes:
+  , 8 examples, log-prior = inf
+classifier parameters:
+
